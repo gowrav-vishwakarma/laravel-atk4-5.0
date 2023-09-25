@@ -2,7 +2,6 @@
 
 namespace Gowrav\LaravelAtkIntegrate;
 
-use \config;
 use Illuminate\Support\ServiceProvider;
 
 class LaravelAtkIntegrateServiceProvider extends ServiceProvider
