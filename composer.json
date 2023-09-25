@@ -17,7 +17,7 @@
     "require": {
         "php": "^7.3|^8.0",
         "illuminate/support": "^8.0|^9.0|^10.0",
-        "atk4/ui": "^3.1",
-        "atk4/data": "^3.1"
+        "atk4/ui": "dev-develop",
+        "atk4/data": "dev-develop"
     }
 }
